@@ -1,3 +1,5 @@
+projeto do vídeo https://youtu.be/oy4cbqE1_qc?si=TF75q2NRKizvTfGq do canal Sujeito programador
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
